@@ -77,6 +77,8 @@ module.exports = {
 
 [Blockdevsasia - Ethdev Docker](https://github.com/blockdevsasia/ethdev_docker)
 
+[Express-box by Arvind Kalra and Pranav Singh](https://www.truffleframework.com/boxes/express-box)
+
 ## Helpful reference links:
 [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
 
