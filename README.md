@@ -60,7 +60,7 @@ module.exports = {
 ## Sources:
 [Blockdevasia - Token Example](https://github.com/blockdevsasia/Token-example)
 
-[Blockdevsasia - Ethdev Docker] (https://github.com/blockdevsasia/ethdev_docker)
+[Blockdevsasia - Ethdev Docker](https://github.com/blockdevsasia/ethdev_docker)
 
 ## Helpful reference links:
 [Solidity Documentation](https://solidity.readthedocs.io/en/develop/)
